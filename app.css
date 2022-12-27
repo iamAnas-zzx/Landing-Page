@@ -1,0 +1,75 @@
+body{
+    background: white;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Roboto+Slab',sans-serif;
+    justify-content: center;
+
+}
+#mainNavbar{
+    padding-top: 40px;
+    padding-right: 20px;
+}
+#mainNavbar .navbar-brand{
+    color: rgb(104, 23, 23);
+    font-size: 50px;
+    font-weight: 600;
+    /* padding-right:5px; */
+    /* font-size: 1.5rem; */
+    /* font-weight: 100; */
+    margin-inline-end: auto;
+}
+#mainNavbar .nav-link{
+    /* margin-right: 0; */
+    /* padding-right: 0; */
+    justify-content: flex-end;
+    color: rgb(104, 23, 23);
+    font-size: 20px;
+}
+#super{
+    height: 100px;
+    
+    /* text-decoration: dotted; */
+    /* text-align: justify; */
+    /* text-justify: ; */
+    /* align-items: baseline; */
+    background-color: rgb(252, 245, 238);
+
+}
+#super h1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 550;
+    color: #db1919;
+}
+#serLink{
+    height: 40px;
+    /* text-decoration: #EA1C2C; */
+}
+#gmap h1{
+    font-weight: 900;
+    /* font-size: xx-large; */
+    font-size: 60px;
+    line-height: 80px;
+}
+#gmap p{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 50px;
+    /* font-weight: 300; */
+}
+#serLink1{
+    background-color: rgb(252, 245, 238);
+}
+/* #serLink1 .col{
+    height: 50px;
+    
+} */
+#feat{
+    background-color: rgb(252, 245, 238);
+}
+
+
